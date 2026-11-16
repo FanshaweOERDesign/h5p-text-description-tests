@@ -1,0 +1,4 @@
+{
+  "accordionHtml": "<details>\n<summary>\n<strong>Text Description</strong>\n</summary>\n<div>\n<div>\nThis activity contains a set of dialog cards, which are described below.\n</div>\n<div>\n&nbsp;\n</div>\n<div>\nActivity Description or Instruction: Berry names are presented in Spanish. You can turn the cards to see the correct English translations.\n</div>\n</div>\n<ol>\n<li>\nDialog Text: Fresas; Image Alt Text: Red berries with green leaves\n</li>\n<li>\nDialog Text: Frambuesas; Image Alt Text: Red berries\n</li>\n<li>\nDialog Text: Guindas; Image Alt Text: Red berries with green stems\n</li>\n<li>\nDialog Text: Grosellas rojas; Image Alt Text: Small spherical red berries\n</li>\n<li>\nDialog Text: Arándanos azules; Image Alt Text: Berries which have a blue colour\n</li>\n</ol>\n</details>",
+  "solution": "<ol>\n<li>\nStrawberries\n</li>\n<li>\nRaspberries\n</li>\n<li>\nCherries\n</li>\n<li>\nRedcurrants\n</li>\n<li>\nBlueberries\n</li>\n</ol>"
+}
