@@ -1,0 +1,4 @@
+{
+  "accordionHtml": "<details>\n<summary>\n<strong>Text Description</strong>\n</summary>\n<div>\n<div>\nThis activity contains a set of flashcards, which are described below.\n</div>\n<div>\n&nbsp;\n</div>\n<div>\nActivity Description or Instruction: Which fruit is this?\n</div>\n</div>\n<ol>\n<li>\nCard Text: Sour orange fruit...  \n</li>\n<li>\nCard Text: Can be both sweet and sour....  \n</li>\n<li>\nCard Text: Green, sour fruit....  \n</li>\n<li>\nCard Text: Healthy green or red...  \n</li>\n<li>\nCard Text: Sweet red berry....  \n</li>\n</ol>\n</details>",
+  "solution": "<ol>\n<li>\nOrange\n</li>\n<li>\nCherry\n</li>\n<li>\nLime\n</li>\n<li>\nApple\n</li>\n<li>\nStrawberry\n</li>\n</ol>"
+}
