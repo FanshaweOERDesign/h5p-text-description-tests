@@ -1,0 +1,4 @@
+{
+  "accordionHtml": "<details>\n<summary>\n<strong>Text Description</strong>\n</summary>\n<div>\nWhat are the colors of these berries when they are ripe?\n</div>\n<div>\n<ol>\n<li>\nBlueberries are _____ (Hint: Check the name of the berry!).\n</li>\n<li>\nStrawberries are _____.\n</li>\n<li>\nCloudberries are _____.\n</li>\n</ol>\n</div>\n<div>\nPossible answers:\n</div>\n<ul>\n<li>\nred\n</li>\n<li>\norange\n</li>\n<li>\nblue\n</li>\n</ul>\n</details>",
+  "solution": "<ol>\n<li>\nBlueberries are <strong><em>blue</em></strong>.\n</li>\n<li>\nStrawberries are <strong><em>red</em></strong>.\n</li>\n<li>\nCloudberries are <strong><em>orange</em></strong>.\n</li>\n</ol>"
+}
