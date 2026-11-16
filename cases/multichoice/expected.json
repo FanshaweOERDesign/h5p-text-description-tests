@@ -1,0 +1,4 @@
+{
+  "accordionHtml": "<details>\n<summary>\n<strong>Text Description</strong>\n</summary>\n<div>\nWhat color does the blackcurrant berry actually have?\n</div>\n<ol type=\"a\">\n<li>\nVery dark purple\n</li>\n<li>\nBlack\n</li>\n<li>\nBlue\n</li>\n</ol>\n</details>",
+  "solution": "<div>\nCorrect answer(s): a. Very dark purple\n</div>"
+}
