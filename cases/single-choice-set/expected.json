@@ -1,0 +1,4 @@
+{
+  "accordionHtml": "<details>\n<summary>\n<strong>Text Description</strong>\n</summary>\n<ol>\n<li>\nGoji berries are also known as ...<ol type=\"a\">\n<li>\nWolfberries\n</li>\n<li>\nBearberries\n</li>\n<li>\nCatberries\n</li>\n</ol>\n</li>\n<li>\nGoji berries are native to ...<ol type=\"a\">\n<li>\nAsia\n</li>\n<li>\nAfrica\n</li>\n<li>\nEurope\n</li>\n</ol>\n</li>\n<li>\nGoji berries are usually sold ...<ol type=\"a\">\n<li>\nPickled\n</li>\n<li>\nFrozen\n</li>\n<li>\nDried\n</li>\n</ol>\n</li>\n</ol>\n</details>",
+  "solution": "<ol>\n<li>\na. Wolfberries\n</li>\n<li>\na. Asia\n</li>\n<li>\nc. Dried\n</li>\n</ol>"
+}
